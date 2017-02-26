@@ -1,0 +1,10 @@
+1.Access Gmail Content from Python
+2.Add Voice Output to the Gmail Information
+3.Access Twitter information
+4.Add voice output to the twitter
+5.Make simple home automation using Arduino
+6.Add pushbuttons to for voice control
+
+Points to be noted
+message payload returns a list
+in payload sendors name is in 21 index , returns a Dict having a name and value pair
