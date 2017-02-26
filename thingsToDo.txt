@@ -8,3 +8,8 @@
 Points to be noted
 message payload returns a list
 in payload sendors name is in 21 index , returns a Dict having a name and value pair
+
+
+
+first install the pip
+then run the requirements file using pip
