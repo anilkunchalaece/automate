@@ -11,5 +11,11 @@ in payload sendors name is in 21 index , returns a Dict having a name and value 
 
 
 
-first install the pip
+1.first install the pip
+	sudo apt-get install python-pip
+2. install the header files and static libraries for python dev
+	sudo apt-get install python-dev
+	sudo apt-get install python3-dev
+
 then run the requirements file using pip
+
