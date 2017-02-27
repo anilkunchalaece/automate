@@ -19,3 +19,7 @@ in payload sendors name is in 21 index , returns a Dict having a name and value 
 
 then run the requirements file using pip
 
+
+pyaudio IO Error OverFlowed
+http://stackoverflow.com/questions/28174540/ioerror-errno-input-overflowed-9981
+Try to increase the chunk size in the code to 8192
