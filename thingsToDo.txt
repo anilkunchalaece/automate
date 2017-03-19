@@ -23,3 +23,10 @@ then run the requirements file using pip
 pyaudio IO Error OverFlowed
 http://stackoverflow.com/questions/28174540/ioerror-errno-input-overflowed-9981
 Try to increase the chunk size in the code to 8192
+
+
+How to set up Google speech to text API
+https://codelabs.developers.google.com/codelabs/cloud-speech-intro/index.html?index=..%2F..%2Findex#4
+
+Converting wav to flac
+http://stackoverflow.com/questions/23925494/how-to-convert-wav-to-flac-from-python
